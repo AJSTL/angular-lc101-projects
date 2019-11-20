@@ -1,0 +1,12 @@
+.chores {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: hotpink;
+}
+
+#choresH3 {
+    text-decoration: underline;
+    }
+
+#choresList {
+    font-style: italic;
+}
